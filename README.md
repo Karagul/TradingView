@@ -1,3 +1,1 @@
 # TradingView
-# TradingView
-# TradingView
